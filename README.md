@@ -1,11 +1,19 @@
 # EatFitGo - Team 7
 
-### Team Members
+## Team Members
 Cristian Bolanos
+
 Daniel Fox
+
 Kiran Subhash Rathod
+
 Manohar Killamsetti
+
 Aakash Hariprakash, Varma
+
+
+
+
 
 ## Application Design
 
